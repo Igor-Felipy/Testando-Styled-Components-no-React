@@ -1,0 +1,1 @@
+## projeto simples para teste da lib javascript styled-component
